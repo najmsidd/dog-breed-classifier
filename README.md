@@ -26,7 +26,7 @@ The goal of this project is to build an image classification model that can reco
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 
 * The dataset consists of dog images categorized into multiple breeds.
 * All images are resized to **256x256** pixels.
@@ -34,6 +34,26 @@ The goal of this project is to build an image classification model that can reco
 
   * **Training set**
   * **Validation/Test set**
+
+Data
+
+The Dataset for the project is given below for download:
+
+**Download link:** [dog_images](https://drive.google.com/your-shared-link)
+
+Note: The original dataset is from Stanford 
+
+The data is expected to be organized like:
+
+```
+images/
+├── beagle/
+├── german_shepherd/
+├── golden_retriever/
+├── bulldog/
+└── poodle/
+```
+
 
 ---
 
